@@ -153,4 +153,6 @@ This dashboard simplifies Adidas' sales performance into a clean, visual report 
 ![Dashboard Screenshot]
 ![Adidas Sales Report](https://github.com/user-attachments/assets/7b8b973e-fe80-4292-8099-3f29f8969ff8)
 
+LINK OF DASHBOARD:https://app.powerbi.com/groups/me/reports/f09ba1ad-53bb-4179-bd50-4e46a8eaef4f/65ea93b3d811724e7e92?experience=power-bi
+
 
